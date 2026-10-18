@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+:root {
+  --primary-color: #999;
+}
+
+/* .container {
+  width: 100%;
+  height: 100%;
+  padding: 30px;
+}
+
+
+.formField {
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+  width: 50%;
+} */
