@@ -198,7 +198,7 @@ export default function Register() {
 						accept="*/*"
 						hidden
 					/>
-					<p className="m-5 text-sm text-[var(--primary-color)] leading-2">
+					<p className="m-3 lg:m-5 text-sm text-[var(--primary-color)] ">
 						Attach file. File size of your documents should not exceed 10MB.
 					</p>
 				</div>

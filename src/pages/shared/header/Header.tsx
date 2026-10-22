@@ -11,7 +11,7 @@ export default function Header({ setIsMenuOpen }: HeadreProps) {
 	}
 
 	return (
-		<div className="bg-gray-300 flex gap-25 px-10 md:px-20 py-2 md:py-1 items-center justify-between relative sticky top-0">
+		<div className="bg-gray-300 flex gap-25 lg:gap-18 px-10 md:px-15 py-2 md:py-1 items-center justify-between relative sticky top-0">
 			<img
 				src="/images/green.png"
 				alt="logo"
